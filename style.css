@@ -1,0 +1,26 @@
+/*
+Theme Name: Gema Child
+Theme URI: https://pixelgrade.com/demos/gema/
+Author: Pixelgrade
+Author URI: https://pixelgrade.com/
+Description: A dynamic grid-based layout inspired and shaped by your content diversity.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: gema
+Tags: light, white, one-column, two-columns, three-columns, right-sidebar, responsive-layout, custom-menu, featured-images, editor-style, infinite-scroll, microformats, post-formats, rtl-language-support, site-logo, theme-options, threaded-comments, translation-ready, blog, journal, lifestream, magazine, news, scrapbooking, video, bright, clean, bold, geometric, minimal, modern, smart, adaptive
+Template: gema
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Gema is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: hive' line. */
